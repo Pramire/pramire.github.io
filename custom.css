@@ -1,6 +1,5 @@
-.usa-sidenav-list a.usa-current {border-left: 0.4rem solid #364159; color: #364159}
-.usa-sidenav-list>li {border-top: 3px solid #aeb0b56e}
-.usa-sidenav-list a {font-family: "Merriweather","Georgia","Cambria","Times New Roman","Times",serif; font-size: 14px; font-weight: 500; padding-top: 1.2rem}
+.usa-sidenav-list a.usa-current {border-left: 0.4rem solid #0071bc; color: #0071bc}
+.usa-sidenav-list>li {border-top: 3px solid #0071bc}
 .usa-sidenav-list a, .usa-sidenav-contents-heading, a {color: #333333c7}
 .usa-sidenav-contents-heading {text-transform: none; font-size: 14px; font-weight: bold}
 .usa-sidenav-contents a {text-decoration: none; font-size: 14px}
@@ -15,8 +14,8 @@
 .usa-footer li {line-height: 1.5 !important}
 .usa-footer-return-to-top {padding-top: 0; text-decoration: none}
 
-h2 {color: #205493}
-p, h3, h4 {color: #333333}
+h1, h2, h3, h4, h5, h6 {color: rgba(0,0,0,.8)}
+p, {color: #333333}
 a {text-decoration: none}
 
 @media screen and (min-width: 951px) {

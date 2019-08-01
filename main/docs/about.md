@@ -1,8 +1,8 @@
 ---
 title: About the candidate
-permalink: /docs/
+permalink: /docs/about
 
-layout: post
+layout: docs
 sidenav: docs
 subnav:
   - text: About the man

@@ -12,8 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Centre
-    href: /docs/
+  - text: Center
+    href: /center/
   - text: Resources
     links: footer
   - text: Newsletter
@@ -27,8 +27,10 @@ secondary:
     external: true
 
 docs:
-  - text: About the candidate
+  - text: Introduction
     href: /docs/
+  - text: About the candidate
+    href: /docs/about
   - text: Campaign library
     href: /docs/library
   - text: School policies

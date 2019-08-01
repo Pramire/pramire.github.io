@@ -1,19 +1,22 @@
 ---
-title: Home
-permalink: /centre/
+title: Information center
+permalink: /center/
 
 layout: home
 
 hero:
-  image: /main/ohlvtwm.png
+  image: ../assets/img/hero/WVy0BOAMU9.png
   callout:
-    text: Information centre
+    text: Information center
 
 tagline: We're a modern, creative community.
 ---
 
 ## Documentation
-Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activites such as automated intruction, and programming, are specifically outlined within these texts.
+Read up on server procedure and policy, learn how to get around, and see how every piece fits into the puzzle.  
+{: .usa-font-lead }
+
+Our documentation pages are our actively-maintained instructions for our server, and many online services. Anyone can learn about community culture, advanced in-game commands, or just how to be a smarter server member.
 
   <div class="usa-grid-full">
     <div class="usa-width-one-third">
@@ -35,20 +38,30 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
   </div>
 
 <a class="usa-button usa-button" href="../docs">View docs</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>
 
 <hr style="margin-top: 4.5rem;">
 
-## Magisterial library
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
+## Legal policies
+Our legal policies help users understand applicable laws and regulations for our services. Commitment to privacy is a keystone of the organization's operations and how security factors into the server environment.
 
-<a class="usa-button usa-button" href="../docs">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<div class="usa-grid-full">
+  <div class="usa-width-one-third">
 
-<hr style="margin-top: 4.5rem;">
+    <ul>
+      <li>Terms of service (of accepted guidelines when using our services)</li>
+    </ul>
 
-## Judicial liberary
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
+  </div>
+  <div class="usa-width-one-third">
 
-<a class="usa-button usa-button" href="../docs">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+    <ul>
+      <li>Privacy policy (of how personal information is used on our services)</li>
+    </ul>
+
+  </div>
+</div>
+
+<a class="usa-button usa-button" href="../terms">View terms</a>
+<a class="usa-button usa-button" href="../privacy">View privacy</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>

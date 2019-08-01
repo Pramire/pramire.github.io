@@ -17,13 +17,13 @@ Our documents provided for campaign advertising fall under a free-cultural share
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
 		<a href="/kit/" class="usa-button usa-button-secondary" style="margin-bottom: 3.5rem;">DOCX</a>
 	</div>
-  
+
 	<div class="usa-width-one-third">
 		<img src="https://krebs.us.to/assets/img/krebsposter2.PNG" style="border: 1px solid #9a9a9a;">
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
 		<a href="/kit/" class="usa-button usa-button-secondary" style="margin-bottom: 3.5rem;">DOCX</a>
 	</div>
-  
+
 	<div class="usa-width-one-third">
 		<img src="https://krebs.us.to/assets/img/krebsposter3.PNG" style="border: 1px solid #9a9a9a;">
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
@@ -42,13 +42,13 @@ Use posters from previous campaigns and preceding election cycles. These may be 
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
 		<a href="/kit/" class="usa-button usa-button-secondary" style="margin-bottom: 3.5rem;">DOCX</a>
 	</div>
-  
+
 	<div class="usa-width-one-third">
 		<img src="https://krebs.us.to/assets/img/krebsposter2.PNG" style="border: 1px solid #9a9a9a;">
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
 		<a href="/kit/" class="usa-button usa-button-secondary" style="margin-bottom: 3.5rem;">DOCX</a>
 	</div>
-  
+
 	<div class="usa-width-one-third">
 		<img src="https://krebs.us.to/assets/img/krebsposter3.PNG" style="border: 1px solid #9a9a9a;">
 		<a href="/kit/" class="usa-button" style="margin-bottom: .5rem;">PDF</a>
@@ -71,4 +71,4 @@ Pre-printed and fully laminated campaign posters are now available.
 <h6 style="margin-top: -2rem; margin-bottom: 0; text-transform: none;"><i>––Mark Twain,  'A Connecticult Yankee in King Arthur's Court.'</i></h6>
 </div>
 
-[Online shop](/kit/){: .usa-button .usa-button-big }
+[Online shop](/kit/){: .usa-button .usa-button }
