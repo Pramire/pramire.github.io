@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: ../assets/img/hero
+  image: ../assets/img/hero/4R2kvopvIy.png
   callout:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
