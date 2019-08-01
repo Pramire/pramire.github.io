@@ -19,7 +19,7 @@ Spread the word of Krebs and let everyone know you're a supporter of his candida
 
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Downloads to press resources are provided without charge. Means of printing does not apply.</h6>
 
-[Get the kit](/kit/){: .usa-button .usa-button-big }
+[Get the kit](/kit/){: .usa-button .usa-button }
 
 <hr style="margin-top: 4rem;">
 
@@ -48,7 +48,7 @@ We're [accepting signatures](https://www.change.org/p/students-of-edison-high-sc
 
 <h6 style="margin-top:-1rem; margin-bottom: 0; text-transform: none;">Personal information disclosed through the petition will not be made public unless chosen so by the petitioner. <br> For additional privacy, we're also accepting signatures through a form.</h6>
 
-[Sign the petition](https://www.change.org/p/students-of-edison-high-school-help-us-ensure-a-fair-candidacy-this-upcoming-student-council-election-year){: .usa-button .usa-button-big }
-[Sign offline](#){: .usa-button .usa-button-big }
+[Sign the petition](https://www.change.org/p/students-of-edison-high-school-help-us-ensure-a-fair-candidacy-this-upcoming-student-council-election-year){: .usa-button .usa-button }
+[Sign offline](#){: .usa-button .usa-button }
 
 <h6 style="margin-top:-2rem; margin-bottom: 0; text-transform: none;">We do not publicise voters' information.</h6>

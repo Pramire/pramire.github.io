@@ -15,10 +15,8 @@
 .usa-footer li {line-height: 1.5 !important}
 .usa-footer-return-to-top {padding-top: 0; text-decoration: none}
 
-h2 {color: #364159}
+h2 {color: #205493}
 p, h3, h4 {color: #333333}
-a:hover {color: #333333 !important}
-a:visited {color: #333333c7 !important}
 a {text-decoration: none}
 
 @media screen and (min-width: 951px) {
