@@ -14,6 +14,10 @@
 .usa-footer li {line-height: 1.5 !important}
 .usa-footer-return-to-top {padding-top: 0; text-decoration: none}
 
+.staff-img {max-width: 80px; margin-top: 1.5rem; margin-bottom: -3rem;}
+.staff-hr {margin-top: 1rem; margin-bottom: -1rem; width: 5rem; border-top: 3px solid #aeb0b5; background: #fff; color: #fff}
+.staff-para {margin-bottom: 1rem; max-width: 65rem;}
+
 h1, h2, h3, h4, h5, h6 {color: rgba(0,0,0,.8)}
 p, {color: #333333}
 a {text-decoration: none}
