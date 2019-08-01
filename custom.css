@@ -1,0 +1,43 @@
+.usa-sidenav-list a.usa-current {border-left: 0.4rem solid #364159; color: #364159}
+.usa-sidenav-list>li {border-top: 3px solid #aeb0b56e}
+.usa-sidenav-list a {font-family: "Merriweather","Georgia","Cambria","Times New Roman","Times",serif; font-size: 14px; font-weight: 500; padding-top: 1.2rem}
+.usa-sidenav-list a, .usa-sidenav-contents-heading, a {color: #333333c7}
+.usa-sidenav-contents-heading {text-transform: none; font-size: 14px; font-weight: bold}
+.usa-sidenav-contents a {text-decoration: none; font-size: 14px}
+.usa-layout-docs-sidenav {position: -webkit-sticky}
+
+.usa-header {max-width: 1040px; margin: 0 auto; padding-bottom: 10px}
+.usa-nav {display: none !important}
+
+.usa-footer {max-width: 1040px; margin: 0 auto; background: #fff !important; font-size: 14px !important; border-top: 3px solid #aeb0b56e !important}
+.usa-footer-secondary_section {background-color: #fff !important; padding-bottom: 0}
+.usa-footer h3 {font-family:"Source Sans Pro","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif; font-size: 14px !important; color: #333333c7 !important}
+.usa-footer a {color: #333333c7 !important; #line-height: 1.5}
+.usa-footer li {line-height: 1.5 !important}
+.usa-footer-return-to-top {padding-top: 0; text-decoration: none}
+
+h2 {color: #364159}
+p, h3, h4 {color: #333333}
+a:hover {color: #333333 !important}
+a:visited {color: #333333c7 !important}
+a {text-decoration: none}
+
+@media screen and (min-width: 951px) {
+.usa-header {border-bottom: 3px solid #aeb0b56e !important}
+}
+
+@media only screen and (max-width:950px) {
+div#logo .usa-logo-text img {height: 4rem !important}
+}
+
+@media only screen and (max-width:950px) {
+.usa-logo-text img {width: auto !important}
+.usa-logo {padding-top: 10px; padding-left: 3rem}
+.usa-navbar {height: 60px; border-bottom: 3px solid #aeb0b56e !important}
+.usa-menu-btn {display: none}
+main#main-content {padding-top: 3rem}
+}
+
+@media only screen and (max-width:600px) {
+.usa-logo {padding-left: 1.5rem}
+}
